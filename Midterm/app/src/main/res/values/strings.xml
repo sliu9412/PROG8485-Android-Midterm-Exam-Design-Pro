@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">DesignProMidTerm</string>
+    <string name="page_title">DesignPro</string>
+    <string name="name_hint">Customer Name:</string>
+    <string name="email_hint">E-mail Id:</string>
+    <string name="subsplan_hint">Subscription Plan:</string>
+    <string name="rdmonthly_title">Monthly</string>
+    <string name="rdyearly_title">Yearly</string>
+    <string name="plantype_hint">Plan Type:</string>
+
+    <string name="additionals_hint">Additionals:</string>
+    <string name="adddesigns_title">Unlimited Designs</string>
+    <string name="addupdates_title">Updates</string>
+    <string name="typeofdesigns_hint">Type of Designs:</string>
+    <string name="date_hint">Subscription Date:</string>
+    <string name="btn_title">Submit</string>
+
+
+</resources>
